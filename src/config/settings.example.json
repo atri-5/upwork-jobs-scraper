@@ -1,0 +1,15 @@
+{
+  "upwork": {
+    "searchUrlTemplate": "https://www.upwork.com/nx/search/jobs/?q=python%20developer&sort=recency&page={page}",
+    "maxItems": 50,
+    "delaySeconds": 2.0,
+    "maxPages": 2,
+    "userAgent": "Mozilla/5.0 (compatible; UpworkJobsScraper/1.0; +https://bitbash.dev)",
+    "proxy": null
+  },
+  "export": {
+    "format": "json",
+    "outputDir": "data",
+    "filePrefix": "upwork_jobs"
+  }
+}
