@@ -1,0 +1,41 @@
+[
+  {
+    "jobId": "123456789",
+    "title": "AI Model Training Assistant",
+    "description": "Need help training a small AI model for image classification.",
+    "createdAt": "2025-01-10T10:00:00Z",
+    "jobType": "Hourly",
+    "duration": "1 to 3 months",
+    "budget": "$25/hr",
+    "clientLocation": "United States",
+    "clientPaymentVerification": true,
+    "clientSpent": "$15,000+",
+    "clientReviews": 48,
+    "category": "Data Science & AI",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Machine Learning"
+    ]
+  },
+  {
+    "jobId": "987654321",
+    "title": "Web Scraping Script for E-commerce Price Monitoring",
+    "description": "Looking for a developer to build a robust scraper for daily price monitoring across multiple e-commerce stores.",
+    "createdAt": "2025-02-01T09:30:00Z",
+    "jobType": "Fixed",
+    "duration": "Less than 1 month",
+    "budget": "$750",
+    "clientLocation": "United Kingdom",
+    "clientPaymentVerification": true,
+    "clientSpent": "$5,000+",
+    "clientReviews": 22,
+    "category": "Data Science & AI",
+    "skills": [
+      "Python",
+      "BeautifulSoup",
+      "Requests",
+      "Data Extraction"
+    ]
+  }
+]
