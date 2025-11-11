@@ -1,0 +1,14 @@
+{
+  "keywords": [
+    "python",
+    "web scraping",
+    "automation"
+  ],
+  "category": "Data Science & AI",
+  "filters": {
+    "experienceLevel": "Intermediate",
+    "paymentVerifiedOnly": true,
+    "minBudget": 0
+  },
+  "note": "This file is an example of how you might represent search preferences for Upwork scraping. The current scraper reads configuration from src/config/settings.example.json, but you can extend main.py to also consume this structure."
+}
